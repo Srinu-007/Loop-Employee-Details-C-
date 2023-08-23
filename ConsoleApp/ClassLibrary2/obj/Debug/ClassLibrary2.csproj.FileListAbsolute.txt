@@ -1,0 +1,6 @@
+E:\ConsoleApp\ConsoleApp\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\ConsoleApp\ConsoleApp\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\ConsoleApp\ConsoleApp\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+E:\ConsoleApp\ConsoleApp\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\ConsoleApp\ConsoleApp\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\ConsoleApp\ConsoleApp\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
